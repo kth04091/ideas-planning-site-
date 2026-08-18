@@ -12,6 +12,7 @@ On each run, ClipFarmer:
 ## Reports
 Dated reports live in [`reports/`](reports/), one per research run:
 
+- [2026-08-14 — Ranking channel](reports/2026-08-14-clipfarmer-ranking.md)
 - [2026-08-13 — Ranking channel](reports/2026-08-13-clipfarmer-ranking.md)
 - [2026-08-12 — Ranking channel](reports/2026-08-12-clipfarmer-ranking.md)
 - [2026-08-11 — Ranking channel](reports/2026-08-11-clipfarmer-ranking.md)
